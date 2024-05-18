@@ -5,10 +5,16 @@ import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
-  "Powerfull online protection.",
-  "Internet without borders.",
-  "Supercharged VPN",
-  "No specific time limits.",
+  "Live and interactive learning .",
+  "Acess to 20 plus programs.",
+  "10-15 years plus experienced industry experts ",
+  "No specific time limits,life tiume acessa",
+  "45 days of placement trainning",
+  "15-20 mock interviews",
+  "Gaureenteed  stipend based internship during major project ",
+  "Aicte approved internship compleation certificate ",
+  "cource compleation certificate,microsoft fundamental certificate ",
+  "10 to 15 assured interview opportunities",
 ];
 
 const Feature = () => {
