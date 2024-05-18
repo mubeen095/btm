@@ -6,14 +6,14 @@ import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
   "Live and interactive learning .",
-  "Acess to 20 plus programs.",
+  "Access to 20 plus programs.",
   "10-15 years plus experienced industry experts ",
-  "No specific time limits,life tiume acessa",
-  "45 days of placement trainning",
+  "No specific time limits,life time access",
+  "45 days of placement training",
   "15-20 mock interviews",
-  "Gaureenteed  stipend based internship during major project ",
-  "Aicte approved internship compleation certificate ",
-  "cource compleation certificate,microsoft fundamental certificate ",
+  "Gauranteed stipend based internship during major project ",
+  "Aicte approved internship completion certificate ",
+  "course completion certificate,microsoft fundamental certificate ",
   "10 to 15 assured interview opportunities",
 ];
 

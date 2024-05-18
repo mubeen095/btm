@@ -1,2 +1,3 @@
 # btm
 # hsrsi
+# hotelgs

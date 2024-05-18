@@ -46,7 +46,7 @@ const Projects = () => {
                   </h5>
                   <p class="text-gray-600 dark:text-gray-300">
                   Expertly curated courses with lifetime access and industry-recognized certifications
-                  to ensure your success..
+                  to ensure your success.
                   </p>
                 </div>
                 <a
@@ -124,7 +124,7 @@ const Projects = () => {
                   </h5>
                   <p class="text-gray-600 dark:text-gray-300">
                     twenty plus professional progrtams,life time acess,Aicte approved internship
-                    resume building,10 garunteed interviews,and may more 
+                    resume building,10 Gauranteed interviews,and may more 
                   </p>
                 </div>
                 <a
@@ -162,8 +162,8 @@ const Projects = () => {
                     More features
                   </h5>
                   <p class="text-gray-600 dark:text-gray-300">
-                    45 days of placement trainning,web resume,15 mock interviews,
-                    2 mini projects,2 major projects for every cource.
+                    45 days of placement training,web resume,15 mock interviews,
+                    2 mini projects,2 major projects for every course.
                   </p>
                 </div>
                 <a
